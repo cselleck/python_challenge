@@ -84,4 +84,4 @@ Both of these challenges encompasses a real-world situation where your newfound 
 ### Technologies
 * Python
 
-## See the main.py app in the PyBank and PyPoll folders for the code used in this project.
+## See the main.py app in the PyBank and PyPoll folders for the code used in this project, and the output results.
